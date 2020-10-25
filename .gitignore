@@ -1,0 +1,7 @@
+__pycache__
+Dataset
+result
+*.docx
+*.pdf
+*.zip
+*.ipynb
